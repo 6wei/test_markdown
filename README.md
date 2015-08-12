@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="test.css" type="text/css" />
+<link rel="stylesheet" href="test.css"/>
 
 ======================
 Name | License | Demo

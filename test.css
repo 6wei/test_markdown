@@ -1,13 +1,4 @@
 body{
-    color:#444;
-  
+    color:#33ff00;
 }
 
-table
-  {
-  table-layout:fixed;
-  border-color:#EAF6C5; 
-  }
-table tr td:first-child,table tr td:first-child{
- width:120px;
-}

@@ -1,9 +1,8 @@
 table
   {
   table-layout:fixed;
-  border-color:#666666; 
+  border-color:#EAF6C5; 
   }
 table tr td:first-child,table tr td:first-child{
  width:120px;
- border-color:#666666; 
 }

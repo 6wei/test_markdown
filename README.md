@@ -1,9 +1,9 @@
-<table style="table-layout:fixed; word-break: break-all; word-wrap: break-word;">
+<table style="table-layout:fixed;">
   <tr> 
   
   <td>wwwwwwwwwwwwwwwwwwwwwwwwwwwwww</td> <td>xxxxxxxxxxxxxxxxxxx</td> 
   
-  <td> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz222222222222222222221111111111111111111111111111zzzzzzz</td>
+  <td> zzzzzzzzzzzzzzzzzzzzzzzssssssssssssssszzzzzzzzzzzzzz222222222222222222221111111111111111111111111111zzzzzzz</td>
   
   </tr>
 </table>
